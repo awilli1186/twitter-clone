@@ -1,5 +1,8 @@
-# Iron Yard Front End Boilerplate
+# Twitterz
 
+- Group project at the Iron Yard. 3 front-end students and 1 back-end student created a Twitter clone.
+- We used Backbone.js to create the structure of the application and hooked into the RESTful api created by 
+- the ruby student.
 
 ## Installation
 
@@ -8,7 +11,7 @@
 - `cd <projectname>`
 - `rm -rf .git`
 - `git init`
--  Create a new repo on Github.com and [add the remote](https://help.github.com/articles/adding-a-remote/). 
+-  Create a new repo on Github.com and [add the remote](https://help.github.com/articles/adding-a-remote/).
 
 - `npm install`
   - This will install the node dependencies for you, and will also install any bower components.
