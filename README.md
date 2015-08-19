@@ -1,8 +1,7 @@
 # Twitterz
 
 - Group project at the Iron Yard. 3 front-end students and 1 back-end student created a Twitter clone.
-- We used Backbone.js to create the structure of the application and hooked into the RESTful api created by 
-- the ruby student.
+- We used Backbone.js to create the structure of the application and hooked into the RESTful api created by the ruby student.
 
 ## Installation
 
