@@ -46,8 +46,8 @@ a {
   &:hover {
     background-color: white;
     opacity: 0.5;
-    color: #CA171B;
-    border: 1.5px solid #CA171B;
+    color: #6ABA3C;
+    border: 1.5px solid #6ABA3C;
   }
   i {
     position: relative;
@@ -117,8 +117,8 @@ a {
     &:hover {
       background-color: white;
       opacity: 0.5;
-      color: #CA171B;
-      border: 1.5px solid #CA171B;
+      color: #6ABA3C;
+      border: 1.5px solid #6ABA3C;
     }
   }
 }
@@ -159,8 +159,8 @@ a {
     &:hover {
       background-color: white;
       opacity: 0.5;
-      color: #CA171B;
-      border: 1.5px solid #CA171B;
+      color: #6ABA3C;
+      border: 1.5px solid #6ABA3C;
     }
   }
 }
@@ -178,7 +178,7 @@ a {
       text-decoration: none;
       margin-left: 1em;
       padding: 10px 15px;
-      background-color: #CA171B;
+      background-color: #6ABA3C;
       border: 1.5px solid white;
       border-radius: 5px;
       color: white;
@@ -194,14 +194,12 @@ a {
         .users {
           float: right;
           position: relative;
-          float: right;
-          position: relative;
-          left: 39.5em;
+          left: 35.5em;
       }
           .tweet_box {
             position: relative;
             top: 5em;
-            left: 25em;
+            left: 23em;
             border-bottom: 1px solid white;
             border-radius: .5em;
             background-color: #DBDBE2;
@@ -231,7 +229,7 @@ a {
       text-decoration: none;
       margin-left: 1em;
       padding: 10px 15px;
-      background-color: #CA171B;
+      background-color: #6ABA3C;
       border: 1.5px solid white;
       border-radius: 5px;
       color: white;
@@ -249,6 +247,7 @@ a {
         margin-right: 1em;
       }
     }
+
     .users-list {
       float: left;
       position: relative;
@@ -269,6 +268,13 @@ a {
         }
       }
     }
+
+    #usersTitle {
+      position: absolute;
+  left: 28.5em;
+  top: 4.5em;
+      }
+
     .tweet {
       a {
         float:right;
@@ -276,7 +282,7 @@ a {
         text-decoration: none;
         margin-right: 1em;
         padding: 10px 15px;
-        background-color: #CA171B;
+        background-color: #6ABA3C;
         border: 1.5px solid white;
         border-radius: 5px;
         color: white;
@@ -314,8 +320,8 @@ a {
         &:hover {
           background-color: white;
           opacity: 0.5;
-          color: #CA171B;
-          border: 1.5px solid #CA171B;
+          color: #6ABA3C;
+          border: 1.5px solid #6ABA3C;
         }
       }
     }

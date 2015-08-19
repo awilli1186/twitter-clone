@@ -7,7 +7,8 @@ import Friend from '../models/friend';
 import FriendView from './friend-view';
 
 var html =
-`<div class="users">
+`<h2 id="usersTitle">Users</h2>
+<div class="users">
   <a href="#/feed/new"><i class="fa fa-plus"></i> New Tweet</a>
   <a href="#/feed"><i class="fa fa-rss"></i> Feed</a>
   </div>
